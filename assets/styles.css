@@ -26,7 +26,7 @@ html{
     box-sizing: inherit;
     margin: 0;
     padding: 0;
-    cursor: url(./assets/midia/p1.webp),auto;
+    cursor: url(../assets/midia/p1.webp),auto;
 }
 
 
@@ -39,7 +39,7 @@ body{
 a{
     color: var(--primary-color);
     text-decoration: none;
-    cursor: url(./assets/midia/p2.webp),auto;
+    cursor: url(../assets/midia/p2.webp),auto;
 }
 li{
     list-style: none;
@@ -94,7 +94,7 @@ li{
     border-left: 4px solid;
     border-top: 4px solid transparent;
     border-radius: 100%;
-    cursor:url(/assets/midia/p2.webp),auto;
+    cursor:url(../assets/midia/p2.webp),auto;
 }
 .loader-logo div:nth-child(1) {
     animation: anim-1 2s linear infinite;
