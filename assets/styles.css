@@ -26,7 +26,7 @@ html{
     box-sizing: inherit;
     margin: 0;
     padding: 0;
-    cursor: url(/assets/midia/p1.webp),auto;
+    cursor: url(./assets/midia/p1.webp),auto;
 }
 
 
@@ -39,7 +39,7 @@ body{
 a{
     color: var(--primary-color);
     text-decoration: none;
-    cursor: url(/assets/midia/p2.webp),auto;
+    cursor: url(./assets/midia/p2.webp),auto;
 }
 li{
     list-style: none;
@@ -1654,4 +1654,5 @@ li{
         flex-direction: column-reverse;
     }
 }
+
 
