@@ -94,7 +94,7 @@ li{
     border-left: 4px solid;
     border-top: 4px solid transparent;
     border-radius: 100%;
-    cursor:url(../assets/midia/p2.webp),auto;
+    cursor:url(midia/p2.webp),auto;
 }
 .loader-logo div:nth-child(1) {
     animation: anim-1 2s linear infinite;
@@ -195,7 +195,7 @@ li{
 	color: #BBDEFB;
 	font-size: .9rem;
 	margin: 0 10px;
-	cursor:url(/assets/midia/p2.webp),auto;
+	cursor:url(midia/p2.webp),auto;
 }
 .wavy{
     display: none;
@@ -252,7 +252,7 @@ li{
     align-items: center;
     margin: 0 1rem;
     transition: .5s ease;
-    cursor: url(/assets/midia/p2.webp),auto;
+    cursor: url(midia/p2.webp),auto;
 }
 .logo{
     width: 45px;
@@ -261,7 +261,7 @@ li{
     position: relative;
     perspective: 50000px;
     color: #00B5DC;
-    cursor: url(/assets/midia/p2.webp),auto;
+    cursor: url(midia/p2.webp),auto;
 }
 .logo div {
     position: absolute;
@@ -270,7 +270,7 @@ li{
     border-left: 3px solid;
     border-top: 3px solid transparent;
     border-radius: 100%;
-    cursor: url(/assets/midia/p2.webp),auto;
+    cursor: url(midia/p2.webp),auto;
 }
 .logo div:nth-child(1) {
     animation: logo-anim-1 4s linear infinite;
@@ -309,7 +309,7 @@ li{
 }
 .mark span{
     display: none;
-    cursor: url(/assets/midia/p2.webp),auto;
+    cursor: url(midia/p2.webp),auto;
     font-size: 1.1rem;
     color: #00B5DC;
 }
@@ -333,7 +333,7 @@ li{
 }
 #svg10{
     fill: url(#gradient1);
-    cursor: url(/assets/midia/p2.webp), auto;
+    cursor: url(midia/p2.webp), auto;
 }
 .portal.active #svg10{
     fill: url(#gradient3);
@@ -516,7 +516,7 @@ li{
     width: 0; 
     height: 0;
     background-color: transparent;
-    cursor: url(/assets/midia/p2.webp),auto; 
+    cursor: url(midia/p2.webp),auto; 
 }
 
 .prev{   
@@ -568,7 +568,7 @@ li{
 .fp-nav-name{
     opacity: 0;    
     transition: opacity .3s ease-in-out;
-    cursor: url(/assets/midia/p2.webp),auto;
+    cursor: url(midia/p2.webp),auto;
 }
 .fp-nav a.active-data-scroll-spy > .fp-nav-name,
 .fp-nav a:hover > .fp-nav-name{
@@ -638,7 +638,7 @@ li{
 }
 .tam{
     font-size: 1.5rem;
-    cursor:url(/assets/midia/p2.webp),auto;
+    cursor:url(midia/p2.webp),auto;
 }
 .self-rating-level{
     font-family: 'Otomanopee One', sans-serif;
@@ -657,14 +657,14 @@ li{
     transform: translate(-50%, -50%);
     width: 180px;
     height: 180px;
-    background: url(/assets/midia/moon.webp);
+    background: url(midia/moon.webp);
     background-size: cover;
     background-repeat: repeat-x;
     border-radius: 50%;
     box-shadow: inset 0 0  100px #000,
     0 0 20px rgb(71, 71, 71);
     animation: moon-anim 15s linear infinite;
-    cursor: url(/assets/midia/p2.webp), auto;
+    cursor: url(midia/p2.webp), auto;
 }
 @keyframes moon-anim{
     from{
@@ -816,7 +816,7 @@ li{
     width: var(--width-cubeimg);
     height: var(--height-cubeimg);
     backface-visibility: hidden;
-     background: url(/assets/midia/midia.gif);
+     background: url(midia/midia.gif);
     background-repeat: no-repeat;
     background-size: cover;
     color: var(--primary-color);
@@ -910,7 +910,7 @@ li{
 #svg594{
     position: absolute;
     width: 180px;
-    cursor: url(/assets/midia/p2.webp), auto;
+    cursor: url(midia/p2.webp), auto;
 }
 .face1{    
     fill: transparent;
@@ -998,7 +998,7 @@ li{
     font-size: 1.7rem;
     color: #00B5DC;
     text-align: center;
-    cursor: url(/assets/midia/p2.webp), auto;
+    cursor: url(midia/p2.webp), auto;
 }
 .part-text{
     font-size: 1rem;
@@ -1187,7 +1187,7 @@ li{
 .content-form .formbrief .input-group.radio label:hover {
     background: var(--primary-color); 
     color: #004AD5;
-    cursor:url(/assets/midia/p2.webp),auto;
+    cursor:url(midia/p2.webp),auto;
 }
 .content-form .formbrief .input-group.radio label:before {
     content: "";
@@ -1242,7 +1242,7 @@ li{
 .content-form .formbrief input[type="submit"]:hover,
 .content-form .formbrief .btn:hover {
     background: #004AD5; 
-    cursor:url(/assets/midia/p2.webp),auto;
+    cursor:url(midia/p2.webp),auto;
 }
 .content-form .formbrief input[type="submit"]:hover {
     background:rgba(0, 15, 34, .8);
