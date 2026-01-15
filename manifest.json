@@ -1,0 +1,25 @@
+
+{"name":"José Alarcón App",
+  "short_name":"José Alarcón",
+  "description":"Hi!, my name is José Alarcón, Full Stack Developer, Systems Engineer specializing in creating digital experiences for your life. Let's work together on this!",
+  "icons":[
+    {
+      "src":"https:\/\/dev-josealarcon.github.io\/site\/assets\/midia\/pwa\/icon_128.png",
+      "sizes":"128x128",
+      "type":"image\/png",
+      "purpose":"any maskable"
+    },
+    {
+      "src":"https:\/\/dev-josealarcon.github.io\/site\/assets\/midia\/pwa\/icon_512.png",
+      "sizes":"512x512",
+      "type":"image\/png"
+    }
+  ],
+  "background_color":"#000F22",
+  "theme_color":"#000F22",
+  "display":"standalone",
+  "orientation":"portrait",
+  "start_url":".\/?utm_source=pwa&utm_medium=pwa&utm_campaign=pwa",
+  "scope":"\/"
+}
+
