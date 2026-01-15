@@ -8,10 +8,10 @@ import { previousAbout, nextAbout } from "./js/slider_arrows_about.js";
 import { form, validateForm } from "./js/form.js";
 import serviceWorker from "./js/pwa_app.js";
 
-/*
+
 window.addEventListener("load",function(){
     $('.loader-wrapper').addClass('active');
-})   */
+})   
 
 document.addEventListener("DOMContentLoaded", () => {
 
@@ -101,6 +101,7 @@ else {
 		this.play();
 	}, false);
 }
+
 
 
 
